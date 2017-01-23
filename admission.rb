@@ -8,3 +8,4 @@ when a > 3 && a < 12 then
 else
   puts "1000 yenn"
 end
+puts "you need to work with it"
